@@ -1,6 +1,4 @@
-<h1 align="center"><a href="https://pratikmohanty1425.github.io/Portfolio/index.html"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>Hello! I'm Pratik Mohanty.</h1> 
-
----
+<h1 align="center"><a href="https://pratikmohanty1425.github.io/Portfolio/index.html"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>Hello! I'm Pratik Mohanty.</h1> ---
 
 ![zz](https://user-images.githubusercontent.com/60297008/229171543-791ade5c-661f-4af2-9d8f-d081529ee6bd.jpg)
 

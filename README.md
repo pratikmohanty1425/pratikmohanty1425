@@ -1,7 +1,7 @@
-- Hi there! I'm Pratik Mohanty, a 4th-year student studying Computer Science and Engineering at VIT Chennai.
-- My primary interests lie in software and game development.
-- I am proficient in programming languages such as C++, Java, and Python, and have experience in building projects using these languages.
-- I have completed several online courses in game development and have built a few game prototypes using game engines such as Unity and Unreal Engine.
-- I am also passionate about web development, and have experience in building web applications using HTML, CSS, and JavaScript.
-- I am constantly learning and improving my skills, and enjoy working on challenging projects that help me grow as a developer.
-You can find some of my projects and code samples on my GitHub profile. Feel free to take a look and reach out to me if you have any questions or suggestions!
+Hello! I'm Pratik Mohanty,
+
+I'm highly motivated and detail-oriented Computer Science and Engineering student, I have developed a keen interest in pursuing a career in the tech industry. With a solid foundation in various computer science domains such as programming, data science, software development, web development, and game development, I am well-equipped to take on challenging projects and develop innovative solutions.
+
+Throughout my academic journey, I have actively participated in various extracurricular activities and internships, which have helped me develop strong teamwork, communication, and problem-solving skills. I am committed to lifelong learning and staying up-to-date with the latest advancements in technology.
+
+I am currently seeking opportunities to apply my skills and knowledge in a professional setting where I can contribute to the success of an organization while also growing and developing my own skillset.

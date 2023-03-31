@@ -1,4 +1,4 @@
-<a href="https://pratikmohanty1425.github.io/Portfolio/index.html"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"><h1 align="center">Hello! I'm Pratik Mohanty.</h1></a> 
+<a href="https://pratikmohanty1425.github.io/Portfolio/index.html"><h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">Hello! I'm Pratik Mohanty.</h1></a> 
 
 ---
 

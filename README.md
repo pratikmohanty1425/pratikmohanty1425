@@ -19,11 +19,11 @@ I am currently seeking opportunities to apply my skills and knowledge in a profe
 <code><img height="20" alt="C#" src=""></code>
 <code><img height="20" alt="Java" src=""></code>
 <code><img height="20" alt="Lua" src=""></code>
-<code><img height="20" alt="HTML" src=""></code>
-<code><img height="20" alt="CSS" src=""></code>
-<code><img height="20" alt="PHP" src=""></code>
-<code><img height="20" alt="JavaScript" src=""></code>
-<code><img height="20" alt="SQL" src=""></code>
+<code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
+<code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="20" alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
+<code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="20" alt="SQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 
 
 <h2 align="left">💡 GitHub Stats</h3>

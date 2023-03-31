@@ -16,7 +16,7 @@ I am currently seeking opportunities to apply my skills and knowledge in a profe
 <code><a href="https://www.python.org"><img height="40" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
 <code><a href="https://www.cprogramming.com/"><img height="40" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a></code>
 <code><a href="https://www.w3schools.com/cpp/"><img height="40" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a></code>
-<code><img height="40" alt="C#" src=""></code>
+<code><img height="40" alt="C#" src="![png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo](https://user-images.githubusercontent.com/60297008/229184467-1bf19cfd-2040-48d3-8bb3-58034bdeba54.png)"></code>
 <code><img height="40" alt="Java" src=""></code>
 <code><img height="40" alt="Lua" src=""></code>
 <code><img height="40" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
@@ -25,7 +25,7 @@ I am currently seeking opportunities to apply my skills and knowledge in a profe
 <code><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="40" alt="SQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 
-![png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo](https://user-images.githubusercontent.com/60297008/229184467-1bf19cfd-2040-48d3-8bb3-58034bdeba54.png)
+
 
 <h2 align="left">💡 GitHub Stats</h3>
 

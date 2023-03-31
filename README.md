@@ -18,6 +18,12 @@ I am currently seeking opportunities to apply my skills and knowledge in a profe
 <code><a href="https://www.w3schools.com/cpp/"><img height="20" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a></code>
 <code><img height="20" alt="C#" src=""></code>
 <code><img height="20" alt="Java" src=""></code>
+<code><img height="20" alt="Lua" src=""></code>
+<code><img height="20" alt="HTML" src=""></code>
+<code><img height="20" alt="CSS" src=""></code>
+<code><img height="20" alt="PHP" src=""></code>
+<code><img height="20" alt="JavaScript" src=""></code>
+<code><img height="20" alt="SQL" src=""></code>
 
 
 <h2 align="left">💡 GitHub Stats</h3>

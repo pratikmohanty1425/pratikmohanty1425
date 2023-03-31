@@ -1,3 +1,5 @@
+![zz](https://user-images.githubusercontent.com/60297008/229171543-791ade5c-661f-4af2-9d8f-d081529ee6bd.jpg)
+
 Hello! I'm Pratik Mohanty,
 
 I'm highly motivated and detail-oriented Computer Science and Engineering student, I have developed a keen interest in pursuing a career in the tech industry. With a solid foundation in various computer science domains such as programming, data science, software development, web development, and game development, I am well-equipped to take on challenging projects and develop innovative solutions.

@@ -13,7 +13,7 @@ I am currently seeking opportunities to apply my skills and knowledge in a profe
 
 <h2 align="left">👨‍💻Programming Languages.</h3>
 
-<code><img height="20" alt="javascript" src=""></code>
+<code><img height="20" alt="Python" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dpython&psig=AOvVaw3nbZSTrbv7AnwT6IQQCKCr&ust=1680367156028000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjXkMzNhv4CFQAAAAAdAAAAABAE"></code>
 <code><img height="20" alt="typescript" src=""></code>
 <code><img height="20" alt="react" src=""></code>
 <code><img height="20" alt="graphql" src=""></code>

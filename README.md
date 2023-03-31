@@ -1,6 +1,5 @@
 #**Hi 👋, I'm Pratik Mohanty**
-
-A passionate Software/Web/Game Developer
+-----------------------------------------------------------
 
 ![zz](https://user-images.githubusercontent.com/60297008/229171543-791ade5c-661f-4af2-9d8f-d081529ee6bd.jpg)
 

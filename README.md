@@ -14,8 +14,9 @@ I'm highly motivated and detail-oriented Computer Science and Engineering studen
 Throughout my academic journey, I have actively participated in various extracurricular activities and internships, which have helped me develop strong teamwork, communication, and problem-solving skills. I am committed to lifelong learning and staying up-to-date with the latest advancements in technology.<br><br>
 I am currently seeking opportunities to apply my skills and knowledge in a professional setting where I can contribute to the success of an organization while also growing and developing my own skillset.</h5>
 
+<h2 align="left">👨‍💻Programming Languages.</h3>
+
 ---
-<h2 align="left">😎 About Me.</h3>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>

@@ -6,7 +6,7 @@
 
 
 <h2 align="center">😎 About Me.</h3>
-
+---
 
 <h4 align="justify">
 I'm highly motivated and detail-oriented Computer Science and Engineering student, I have developed a keen interest in pursuing a career in the tech industry. With a solid foundation in various computer science domains such as programming, data science, software development, web development, and game development, I am well-equipped to take on challenging projects and develop innovative solutions.<br><br>

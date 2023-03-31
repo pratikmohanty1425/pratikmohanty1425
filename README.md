@@ -13,9 +13,9 @@ I am currently seeking opportunities to apply my skills and knowledge in a profe
 
 <h2 align="left">👨‍💻Programming Languages.</h3>
 
-<code><a href="https://www.python.org"><img height="20" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
-<code><a href="https://www.cprogramming.com/"><img height="20" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a></code>
-<code><a href="https://www.w3schools.com/cpp/"><img height="20" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a></code>
+<code><a href="https://www.python.org"><img height="40" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
+<code><a href="https://www.cprogramming.com/"><img height="40" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a></code>
+<code><a href="https://www.w3schools.com/cpp/"><img height="40" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a></code>
 <code><img height="40" alt="C#" src=""></code>
 <code><img height="40" alt="Java" src=""></code>
 <code><img height="40" alt="Lua" src=""></code>

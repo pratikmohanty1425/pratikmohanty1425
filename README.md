@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Pratik Mohanty.</h1>
+<h1 align="center"><a href="https://pratikmohanty1425.github.io/Portfolio/index.html"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hello! I'm Pratik Mohanty.</h1>
 
 ---
 
@@ -17,8 +17,8 @@ I am currently seeking opportunities to apply my skills and knowledge in a profe
 <h2 align="left">👨‍💻Programming Languages.</h3>
 
 ---
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Pyton/python.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" alt="javascript" src=""></code>
+<code><img height="20" alt="typescript" src=""></code>
+<code><img height="20" alt="react" src=""></code>
+<code><img height="20" alt="graphql" src=""></code>
+<code><img height="20" alt="nodejs" src=""></code>

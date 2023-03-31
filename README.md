@@ -18,7 +18,7 @@ I am currently seeking opportunities to apply my skills and knowledge in a profe
 <code><a href="https://www.w3schools.com/cpp/"><img height="40" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a></code>
 <code><img height="40" alt="C#" src="https://user-images.githubusercontent.com/60297008/229184467-1bf19cfd-2040-48d3-8bb3-58034bdeba54.png"></code>
 <code><img height="40" alt="Java" src="https://user-images.githubusercontent.com/60297008/229185012-580f2826-6292-4437-b778-8e4fa0a851d2.png"></code>
-<code><img height="40" alt="Lua" src="https://commons.wikimedia.org/wiki/File:Lua-Logo.svg"></code>
+<code><img height="40" alt="Lua" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"></code>
 <code><img height="40" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="40" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="40" alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>

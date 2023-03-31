@@ -16,9 +16,9 @@ I am currently seeking opportunities to apply my skills and knowledge in a profe
 <code><a href="https://www.python.org"><img height="40" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
 <code><a href="https://www.cprogramming.com/"><img height="40" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a></code>
 <code><a href="https://www.w3schools.com/cpp/"><img height="40" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a></code>
-<code><img height="40" alt="C#" src="![png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo](https://user-images.githubusercontent.com/60297008/229184467-1bf19cfd-2040-48d3-8bb3-58034bdeba54.png)"></code>
-<code><img height="40" alt="Java" src=""></code>
-<code><img height="40" alt="Lua" src=""></code>
+<code><img height="40" alt="C#" src="https://user-images.githubusercontent.com/60297008/229184467-1bf19cfd-2040-48d3-8bb3-58034bdeba54.png"></code>
+<code><img height="40" alt="Java" src="https://user-images.githubusercontent.com/60297008/229185012-580f2826-6292-4437-b778-8e4fa0a851d2.png"></code>
+<code><img height="40" alt="Lua" src="https://commons.wikimedia.org/wiki/File:Lua-Logo.svg"></code>
 <code><img height="40" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="40" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="40" alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>

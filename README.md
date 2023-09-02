@@ -5,11 +5,11 @@
 <h2 align="Left">😎 About Me.</h3>
 
 <h5 align="justify"> 
-I'm highly motivated and detail-oriented Computer Science and Engineering student, I have developed a keen interest in pursuing a career in the tech industry. With a solid foundation in various computer science domains such as programming, data science, software development, web development, and game development, I am well-equipped to take on challenging projects and develop innovative solutions.<br><br>
-  
+👋 Hello! I'm Pratik Mohanty, a dedicated computer science enthusiast on a journey of continuous learning and growth. I recently completed my Bachelor's in Technology in Computer Science and Engineering in 2023 From VIT India, and I am currently pursuing my Masters in Computer Science at Aarhus University Denmark.<br><br>
 
-Throughout my academic journey, I have actively participated in various extracurricular activities and internships, which have helped me develop strong teamwork, communication, and problem-solving skills. I am committed to lifelong learning and staying up-to-date with the latest advancements in technology.<br><br>
-I am currently seeking opportunities to apply my skills and knowledge in a professional setting where I can contribute to the success of an organization while also growing and developing my own skillset.</h5>
+🚀 As a passionate and hardworking individual, I thrive on tackling challenges and expanding my knowledge in the ever-evolving field of computer science. I believe that the key to success lies in perseverance and adaptability, and I am committed to pushing my boundaries to achieve excellence in all that I do.<br><br>
+
+🌟 If you're looking for a motivated team player with a hunger for knowledge, I'd love to connect and explore potential opportunities together. Let's collaborate and make the digital world a better place!</h5>
 
 <h2 align="left">👨‍💻Languages and Tools.</h3>
 

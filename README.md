@@ -11,9 +11,13 @@ I love collaborating across different teams and departments. Some of my best wor
 I'm passionate about:
 
 🤖 AI and machine learning applications
+
 📊 Turning data into actionable insights
+
 🌍 Working with diverse, international teams
+
 💡 Continuous learning and adapting to new technologies
+
 🚀 Building solutions that make a real difference
 
 Currently based in Aarhus, I'm excited about opportunities to contribute to innovative projects, especially in AI, data science, and automation. Always open to connecting with fellow tech enthusiasts, potential collaborators, or anyone interested in discussing how AI can transform the way we work.
@@ -33,9 +37,4 @@ Let's connect and explore how we can build something amazing together!
 <code><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="40" alt="SQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 
-
-
-<h2 align="left">💡 GitHub Stats</h3>
-
-<img align="left" alt="pratikmohanty1425's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pratikmohanty1425&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 

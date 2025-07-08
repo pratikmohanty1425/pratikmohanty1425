@@ -5,11 +5,17 @@
 <h2 align="Left">😎 About Me.</h3>
 
 <h5 align="justify"> 
-👋 Hello! I'm Pratik Mohanty, a dedicated computer science enthusiast on a journey of continuous learning and growth. I recently completed my Bachelor's in Technology in Computer Science and Engineering in 2023 From VIT India, and I am currently pursuing my Masters in Computer Science at Aarhus University Denmark.<br><br>
-
-🚀 As a passionate and hardworking individual, I thrive on tackling challenges and expanding my knowledge in the ever-evolving field of computer science. I believe that the key to success lies in perseverance and adaptability, and I am committed to pushing my boundaries to achieve excellence in all that I do.<br><br>
-
-🌟 If you're looking for a motivated team player with a hunger for knowledge, I'd love to connect and explore potential opportunities together. Let's collaborate and make the digital world a better place!</h5>
+I've always been curious about how we can make technology more intuitive and human-like. Currently finishing my Master's in Computer Science at Aarhus University, I spend most of my time exploring AI and machine learning - particularly working with transformers, deep learning, and Large Language Models.
+What really drives me is the moment when complex AI concepts click into place as practical solutions. Whether I'm building image captioning systems using CNNs and transformers, developing VR interaction technologies, or analyzing large datasets to uncover meaningful patterns, I'm always asking: "How can this actually help people?"
+I love collaborating across different teams and departments. Some of my best work has come from sitting down with people who have completely different perspectives and figuring out together how technology can solve real problems. My experience as a board member at iMentor and my internship at Psiborg Technologies taught me that the most impactful solutions come from truly understanding what people need, not just what's technically possible.
+I'm passionate about:
+🤖 AI and machine learning applications
+📊 Turning data into actionable insights
+🌍 Working with diverse, international teams
+💡 Continuous learning and adapting to new technologies
+🚀 Building solutions that make a real difference
+Currently based in Aarhus, I'm excited about opportunities to contribute to innovative projects, especially in AI, data science, and automation. Always open to connecting with fellow tech enthusiasts, potential collaborators, or anyone interested in discussing how AI can transform the way we work.
+Let's connect and explore how we can build something amazing together!
 
 <h2 align="left">👨‍💻Languages and Tools.</h3>
 

@@ -10,6 +10,7 @@ What really drives me is the moment when complex AI concepts click into place as
 I love collaborating across different teams and departments. Some of my best work has come from sitting down with people who have completely different perspectives and figuring out together how technology can solve real problems. My experience as a board member at iMentor and my internship at Psiborg Technologies taught me that the most impactful solutions come from truly understanding what people need, not just what's technically possible.
 I'm passionate about:
 
+
 🤖 AI and machine learning applications
 
 📊 Turning data into actionable insights

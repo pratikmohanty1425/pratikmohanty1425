@@ -9,11 +9,13 @@ I've always been curious about how we can make technology more intuitive and hum
 What really drives me is the moment when complex AI concepts click into place as practical solutions. Whether I'm building image captioning systems using CNNs and transformers, developing VR interaction technologies, or analyzing large datasets to uncover meaningful patterns, I'm always asking: "How can this actually help people?"
 I love collaborating across different teams and departments. Some of my best work has come from sitting down with people who have completely different perspectives and figuring out together how technology can solve real problems. My experience as a board member at iMentor and my internship at Psiborg Technologies taught me that the most impactful solutions come from truly understanding what people need, not just what's technically possible.
 I'm passionate about:
+
 🤖 AI and machine learning applications
 📊 Turning data into actionable insights
 🌍 Working with diverse, international teams
 💡 Continuous learning and adapting to new technologies
 🚀 Building solutions that make a real difference
+
 Currently based in Aarhus, I'm excited about opportunities to contribute to innovative projects, especially in AI, data science, and automation. Always open to connecting with fellow tech enthusiasts, potential collaborators, or anyone interested in discussing how AI can transform the way we work.
 Let's connect and explore how we can build something amazing together!
 
